@@ -1,0 +1,1 @@
+print(dir(some_turple))
