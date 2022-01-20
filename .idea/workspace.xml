@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e0130030-6974-4bfb-83fd-6aa65048f55f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Chernyaeva_Anastasia_dz_1/2less.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chernyaeva_Anastasia_dz_1/task_1_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chernyaeva_Anastasia_dz_1/task_1_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chernyaeva_Anastasia_dz_1/task_1_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chernyaeva_Anastasia_dz_1/task_1_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chernyaeva_Anastasia_dz_1/task_1_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chernyaeva_Anastasia_dz_1/task_1_3.py" afterDir="false" />
+    <list default="true" id="e0130030-6974-4bfb-83fd-6aa65048f55f" name="Changes" comment="Test">
+      <change afterPath="$PROJECT_DIR$/Chernyaeva_Anastasia_dz_1/for_pull_request" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +26,7 @@
     <property name="ChangesTree.GroupingKeys" value="directory" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Chernyaeva_Anastasia_dz_1" />
   </component>
   <component name="RunManager" selected="Python.2less">
     <configuration name="2less" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -133,6 +131,21 @@
       <option name="presentableId" value="Default" />
       <updated>1642462349100</updated>
     </task>
+    <task id="LOCAL-00001" summary="Test">
+      <created>1642707211195</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1642707211195</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Test">
+      <created>1642707254621</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1642707254621</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -145,6 +158,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
