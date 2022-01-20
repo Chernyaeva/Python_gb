@@ -52,4 +52,4 @@ print(result_3)
 
 result_2 = sum_list_2(my_list) # b
 print(result_2)
-
+#test2

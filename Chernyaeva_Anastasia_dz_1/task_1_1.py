@@ -18,7 +18,7 @@ def convert_time(duration: int) -> str:
 
 duration = 400153
 result = convert_time(duration)
-print(result)
+print(result) #test1
 
 
 

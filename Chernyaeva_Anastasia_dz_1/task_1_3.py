@@ -13,3 +13,4 @@ def transform_string(number: int) -> str:
 
 for n in range(1, 101):  # по заданию учитываем только значения от 1 до 100
     print(transform_string(n))
+    #test3
