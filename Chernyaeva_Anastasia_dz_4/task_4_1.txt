@@ -1,0 +1,46 @@
+PS C:\Users\Anastasia\Desktop\Python_gb> pip install pillow
+Requirement already satisfied: pillow in c:\python3\lib\site-packages (9.0.0)
+WARNING: You are using pip version 21.2.4; however, version 21.3.1 is available.
+You should consider upgrading via the 'C:\Python3\python.exe -m pip install --upgrade pip' command.
+PS C:\Users\Anastasia\Desktop\Python_gb> pip show pillow
+Name: Pillow
+Version: 9.0.0
+Summary: Python Imaging Library (Fork)
+Home-page: https://python-pillow.org
+Author: Alex Clark (PIL Fork Author)
+Author-email: aclark@python-pillow.org
+License: HPND
+Location: c:\python3\lib\site-packages
+Requires:
+Required-by:
+C:\Users\Anastasia\Desktop\Python_gb>pip show requests
+Name: requests
+Version: 2.27.1
+Summary: Python HTTP for Humans.
+Home-page: https://requests.readthedocs.io
+Author: Kenneth Reitz
+Author-email: me@kennethreitz.org
+License: Apache 2.0
+Location: c:\python3\lib\site-packages
+Requires: certifi, urllib3, charset-normalizer, idna
+Required-by:
+PS C:\Users\Anastasia\Desktop\Python_gb> python -m venv virt_1
+C:\Users\Anastasia\Desktop\Python_gb>"virt_1/Scripts/activate.bat"
+
+(virt_1) C:\Users\Anastasia\Desktop\Python_gb>
+(virt_1) C:\Users\Anastasia\Desktop\Python_gb>pip show requests
+WARNING: Package(s) not found: requests
+(virt_1) C:\Users\Anastasia\Desktop\Python_gb>pip install requests==2.26.0
+Collecting requests==2.26.0
+  Downloading requests-2.26.0-py2.py3-none-any.whl (62 kB)
+     |████████████████████████████████| 62 kB 157 kB/s
+Requirement already satisfied: certifi>=2017.4.17 in c:\users\anastasia\desktop\python_gb\virt_1\lib\site-packages (from requests==2.26.0) (2021.10.8)
+Requirement already satisfied: idna<4,>=2.5 in c:\users\anastasia\desktop\python_gb\virt_1\lib\site-packages (from requests==2.26.0) (3.3)
+Requirement already satisfied: urllib3<1.27,>=1.21.1 in c:\users\anastasia\desktop\python_gb\virt_1\lib\site-packages (from requests==2.26.0) (1.26.8)
+Requirement already satisfied: charset-normalizer~=2.0.0 in c:\users\anastasia\desktop\python_gb\virt_1\lib\site-packages (from requests==2.26.0) (2.0.10)
+Installing collected packages: requests
+Successfully installed requests-2.26.0
+WARNING: You are using pip version 21.2.4; however, version 21.3.1 is available.
+You should consider upgrading via the 'C:\Users\Anastasia\Desktop\Python_gb\virt_1\Scripts\python.exe -m pip install --upgrade pip' command.
+(virt_1) C:\Users\Anastasia\Desktop\Python_gb>"virt_1/Scripts/deactivate.bat"
+C:\Users\Anastasia\Desktop\Python_gb>
