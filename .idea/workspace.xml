@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e0130030-6974-4bfb-83fd-6aa65048f55f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Chernyaeva_Anastasia_dz_1/2less.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chernyaeva_Anastasia_dz_1/task_1_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chernyaeva_Anastasia_dz_1/task_1_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chernyaeva_Anastasia_dz_1/task_1_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chernyaeva_Anastasia_dz_1/task_1_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chernyaeva_Anastasia_dz_1/task_1_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chernyaeva_Anastasia_dz_1/task_1_3.py" afterDir="false" />
-    </list>
+    <list default="true" id="e0130030-6974-4bfb-83fd-6aa65048f55f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +14,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="23qWq6I9ZKIQBjbbJ0GUkFHqj5z" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -28,7 +25,7 @@
     <property name="ChangesTree.GroupingKeys" value="directory" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Chernyaeva_Anastasia_dz_5" />
   </component>
   <component name="RunManager" selected="Python.2less">
     <configuration name="2less" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
